@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer.</h3>
 
 <p align="center">
-  <img src="https://assets.holopin.io/hacktoberfest2025_user_badges/cmh1egvoq00zjk0041yk0ejma.png" width="300" alt="Hacktoberfest 2025 Supercontributor Badge" />
+  <img src="https://assets.holopin.io/hf2025_badges/cmh1egvoq00zjk0041yk0ejma.png" width="300" alt="Hacktoberfest 2025 Supercontributor Badge" />
 </p>
 
 
