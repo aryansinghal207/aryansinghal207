@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://holopin.io/hacktoberfest2025/userbadge/cmh1egvoq00zjk0041yk0ejma">
-    <img src="https://holopin.io/hacktoberfest2025/userbadge/cmh1egvoq00zjk0041yk0ejma" width="300" alt="Hacktoberfest 2025 Supercontributor Badge">
+    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh1egvoq002jk0041yk0ejma" width="300" alt="Hacktoberfest 2025 Supercontributor Badge">
   </a>
 </p>
 
