@@ -28,9 +28,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghal207&show_icons=true&locale=en&layout=compact" alt="aryansinghal207" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghal207&show_icons=true&locale=en" alt="aryansinghal207" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/?username=aryansinghal207&show_icons=true&theme=transparent" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghal207&" alt="aryansinghal207" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=aryansinghal207&theme=transparent" />
+</p>
 
 <p align="center">
   <a href="https://holopin.io/@aryansinghal207">
