@@ -32,9 +32,6 @@
   <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/?username=aryansinghal207&show_icons=true&theme=transparent" />
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=aryansinghal207&theme=transparent" />
-</p>
 
 <p align="center">
   <a href="https://holopin.io/@aryansinghal207">
